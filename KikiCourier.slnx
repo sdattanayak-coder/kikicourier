@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="KikiCourier.Tests/KikiCourier.Tests.csproj" Id="b7a829af-e2d8-4538-92be-c1beb277997c" />
+  <Project Path="KikiCourier/KikiCourier.csproj" />
+</Solution>
